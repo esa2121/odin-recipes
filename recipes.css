@@ -1,0 +1,10 @@
+/* Write CSS Here */
+body {
+    text-align: center;
+}
+.description {
+
+    text-align: left;
+    width: 800px;
+    margin: auto;
+}
